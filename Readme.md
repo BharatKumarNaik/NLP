@@ -1,6 +1,6 @@
 # NLP for Machine Learning
 
-![images\image.png](images\image.png)
+![alt text](images/image.png)
 
 Example/UseCases = Auto Correct, In any messaging bots we get suggestions for the message reply. Language Translation, Text Classifications etc..
 
